@@ -6,4 +6,3 @@ https://zhsiqi.github.io/2022/06/23/confi-branch-gh-pages/
 https://zhsiqi.github.io/2022/06/23/my-first-blog/
 https://zhsiqi.github.io/2022/06/20/hello-world/
 https://zhsiqi.github.io/
-https://zhsiqi.github.io/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/
