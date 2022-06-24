@@ -1,0 +1,8 @@
+https://zhsiqi.github.io/sitemap/index.html
+https://zhsiqi.github.io/categories/index.html
+https://zhsiqi.github.io/tags/index.html
+https://zhsiqi.github.io/2022/06/23/test-avatar/
+https://zhsiqi.github.io/2022/06/23/confi-branch-gh-pages/
+https://zhsiqi.github.io/2022/06/23/my-first-blog/
+https://zhsiqi.github.io/2022/06/20/hello-world/
+https://zhsiqi.github.io/
