@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhsiqi.github.io/2022/06/23/test-avatar/</loc>
+    
+    <lastmod>2022-06-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zhsiqi.github.io/sitemap/index.html</loc>
     
     <lastmod>2022-06-24</lastmod>
@@ -23,15 +32,6 @@
     <loc>https://zhsiqi.github.io/tags/index.html</loc>
     
     <lastmod>2022-06-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhsiqi.github.io/2022/06/23/test-avatar/</loc>
-    
-    <lastmod>2022-06-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -72,6 +72,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://zhsiqi.github.io/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2022-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
