@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>macOS查看外接移动硬盘通电时间等信息</title>
+    <url>/2022/08/24/macOS%E6%9F%A5%E7%9C%8B%E5%A4%96%E6%8E%A5%E7%A7%BB%E5%8A%A8%E7%A1%AC%E7%9B%98%E9%80%9A%E7%94%B5%E6%97%B6%E9%97%B4%E7%AD%89%E4%BF%A1%E6%81%AF/</url>
+    <content><![CDATA[<h1 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h1><p>售卖闲置移动硬盘，买家问及通电时间，我虽不了解，但总能学一学。然未曾想macOS下会如此麻烦。</p>
+<h1 id="无效方案：不可用的软件"><a href="#无效方案：不可用的软件" class="headerlink" title="无效方案：不可用的软件"></a>无效方案：不可用的软件</h1><ul>
+<li>鲁大师：百度看到的第一个答案，无macOS版本</li>
+<li>smart utility for mac: 只能看电脑自带磁盘的信息</li>
+<li>磁盘工具：系统自带软件，能看到外接磁盘，不显示通电时间信息</li>
+</ul>
+<h1 id="解决方案：DriveDx"><a href="#解决方案：DriveDx" class="headerlink" title="解决方案：DriveDx"></a>解决方案：DriveDx</h1><ol>
+<li>官网下载安装DriveDx，打开DriveDx会显示外接硬盘，但是选中外接硬盘看不到很多信息，此时DriveDx上面会显示建议安装SAT SMART Driver，点击按钮按要求安装好即可（忘了截图但软件标注很明显，下面是官网的旧版截图，没有安装的按钮）<br><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h5hvy4ixi7j21200u0q62.jpg" alt="官网的旧版本图"></li>
+<li>推出外接磁盘，退出DriveDx</li>
+<li>重新打开DriveDx，就能看到外接磁盘的各种信息了<br><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h5hw42tjzzj214h0u0gq2.jpg" alt="avatar"></li>
+</ol>
+<p>注: DriveDx是付费软件，试用期能看到上述信息</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>macOS</tag>
+        <tag>硬盘</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>本博客开荒致辞</title>
     <url>/2022/06/24/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%BC%80%E8%8D%92%E8%87%B4%E8%BE%9E/</url>
     <content><![CDATA[<h1 id="开荒致辞"><a href="#开荒致辞" class="headerlink" title="开荒致辞"></a>开荒致辞</h1><p>经历了多番折腾，本博客终于建成了，可喜可贺。与GitHub上众多专注于技术分享的朋友们相比，我更想将这个博客开辟成我的精神世界，它将收纳我头脑中的所思所想以及任何让我开心、赞叹、惊喜、感动、沉醉的事物，比如一篇绝妙的科幻小说、一首磅礴大气的交响乐……当然我也会记下一些代码，以此作为本博客对GitHub的传承。<br>我是一个相当内向且心思敏感细腻的人，我的大脑很难彻底平静下来，要么被各种无关紧要但我却无比纠结的琐事塞满，要么被“偶遇”的人物、事件、作品激发相当多的感触。这样一来，大脑就忙个不停了。可以说，我就在这样的高负荷头脑运转中消耗了大量的时间、精力、情绪。所以我想，或许写下来能让自己平和下来，同时也可记录学习、生活和成长，锻炼写作能力和积累知识，不致使自己回望过去的时候总是被消极负面的记忆所蒙蔽。<br>因此，换句话说，这个博客是我的“心驰神往”之地，我企图将我过于活跃敏感的心神凝固成敲出的文字，将纽结无序的思维转变为线性有序的篇章，这一工作，我想称其为“耕耘”——人类利用耒耜、耙等这些工具将粗犷无垠的原始土地变为肥沃丰饶的良田，多余的石头、杂草都被悉数除去。这样的精耕细作，与我撰写博文、整理思绪的过程是相似的。日前博客建站，便是开荒完成。<br>由于计算机技术的助力，我的这片博客土地无比宽广，它是我的精神家园，我将带着快乐、温柔与力量继续不断耕耘。</p>
