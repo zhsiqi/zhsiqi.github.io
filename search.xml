@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>macOS查看外接移动硬盘通电时间等信息</title>
-    <url>/2022/08/24/macOS%E6%9F%A5%E7%9C%8B%E5%A4%96%E6%8E%A5%E7%A7%BB%E5%8A%A8%E7%A1%AC%E7%9B%98%E9%80%9A%E7%94%B5%E6%97%B6%E9%97%B4%E7%AD%89%E4%BF%A1%E6%81%AF/</url>
-    <content><![CDATA[<h1 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h1><p>售卖闲置移动硬盘，买家问及通电时间，我虽不了解，但总能学一学。然未曾想macOS下会如此麻烦。</p>
-<h1 id="无效方案：不可用的软件"><a href="#无效方案：不可用的软件" class="headerlink" title="无效方案：不可用的软件"></a>无效方案：不可用的软件</h1><ul>
-<li>鲁大师：百度看到的第一个答案，无macOS版本</li>
-<li>smart utility for mac: 只能看电脑自带磁盘的信息</li>
-<li>磁盘工具：系统自带软件，能看到外接磁盘，不显示通电时间信息</li>
-</ul>
-<h1 id="解决方案：DriveDx"><a href="#解决方案：DriveDx" class="headerlink" title="解决方案：DriveDx"></a>解决方案：DriveDx</h1><ol>
-<li>官网下载安装DriveDx，打开DriveDx会显示外接硬盘，但是选中外接硬盘看不到很多信息，此时DriveDx上面会显示建议安装SAT SMART Driver，点击按钮按要求安装好即可（忘了截图但软件标注很明显，下面是官网的旧版截图，没有安装的按钮）<br><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h5hvy4ixi7j21200u0q62.jpg" alt="官网的旧版本图"></li>
-<li>推出外接磁盘，退出DriveDx</li>
-<li>重新打开DriveDx，就能看到外接磁盘的各种信息了<br><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h5hw42tjzzj214h0u0gq2.jpg" alt="avatar"></li>
-</ol>
-<p>注: DriveDx是付费软件，试用期能看到上述信息</p>
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>macOS</tag>
-        <tag>硬盘</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>本博客开荒致辞</title>
     <url>/2022/06/24/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%BC%80%E8%8D%92%E8%87%B4%E8%BE%9E/</url>
     <content><![CDATA[<h1 id="开荒致辞"><a href="#开荒致辞" class="headerlink" title="开荒致辞"></a>开荒致辞</h1><p>经历了多番折腾，本博客终于建成了，可喜可贺。与GitHub上众多专注于技术分享的朋友们相比，我更想将这个博客开辟成我的精神世界，它将收纳我头脑中的所思所想以及任何让我开心、赞叹、惊喜、感动、沉醉的事物，比如一篇绝妙的科幻小说、一首磅礴大气的交响乐……当然我也会记下一些代码，以此作为本博客对GitHub的传承。  </p>
@@ -37,6 +13,43 @@
       </categories>
       <tags>
         <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>macOS查看外接移动硬盘通电时间等信息</title>
+    <url>/2022/08/24/macOS%E6%9F%A5%E7%9C%8B%E5%A4%96%E6%8E%A5%E7%A7%BB%E5%8A%A8%E7%A1%AC%E7%9B%98%E9%80%9A%E7%94%B5%E6%97%B6%E9%97%B4%E7%AD%89%E4%BF%A1%E6%81%AF/</url>
+    <content><![CDATA[<h1 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h1><p>售卖闲置移动硬盘，买家问及通电时间，我虽不了解，但总能学一学。</p>
+<h1 id="无效方案：不可用的软件"><a href="#无效方案：不可用的软件" class="headerlink" title="无效方案：不可用的软件"></a>无效方案：不可用的软件</h1><ul>
+<li>鲁大师：百度看到的第一个答案，无macOS版本</li>
+<li>smart utility for mac: 只能看电脑自带磁盘的信息</li>
+<li>磁盘工具：系统自带软件，能看到外接磁盘，不显示通电时间信息</li>
+</ul>
+<h1 id="解决方案：DriveDx"><a href="#解决方案：DriveDx" class="headerlink" title="解决方案：DriveDx"></a>解决方案：DriveDx</h1><ol>
+<li>官网下载安装DriveDx，打开DriveDx会显示外接硬盘，但是选中外接硬盘看不到很多信息，此时DriveDx上面会显示建议安装SAT SMART Driver，点击按钮按要求安装好即可（忘了截图但软件标注很明显，下面是官网的旧版截图，没有安装的按钮）</li>
+</ol>
+<center>
+<img src = "https://tva1.sinaimg.cn/large/e6c9d24egy1h5hvy4ixi7j21200u0q62.jpg" width="65%">
+<div style="color:#C0C0C0;font-size:10px;">官网的旧版本</div>
+</center>
+
+
+<ol start="2">
+<li>推出外接磁盘，退出DriveDx</li>
+<li>重新打开DriveDx，就能看到外接磁盘的各种信息了</li>
+</ol>
+<center>
+<img src = "https://tva1.sinaimg.cn/large/e6c9d24egy1h5hvy4ixi7j21200u0q62.jpg" width="65%">
+<div style="color:#C0C0C0;font-size:10px;">DriveDx显示的信息</div>
+</center>
+
+<p>注: DriveDx是付费软件，试用期能看到上述信息</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>macOS</tag>
+        <tag>硬盘</tag>
       </tags>
   </entry>
 </search>
