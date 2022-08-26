@@ -178,7 +178,7 @@ body {
   color: var(--text-color);
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 1em;
-  line-height: 1.6;
+  line-height: 2;
 }
 @media (max-width: 991px) {
   body {
@@ -1217,7 +1217,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #1bd0c8;
+  background: #2a0deb;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1842,7 +1842,7 @@ pre .javascript .function {
   color: #999;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 0.75em;
-  margin: 3px 0 60px 0;
+  margin: 10px 0 40px 0;
   text-align: center;
 }
 .posts-expand .post-meta .post-description {
@@ -1856,12 +1856,14 @@ pre .javascript .function {
 .post-meta .post-meta-item + .post-meta-item::before {
   content: '|';
   margin: 0 0.5em;
+  font-size: 0.75em;
 }
 .post-meta-divider {
   margin: 0 0.5em;
 }
 .post-meta-item-icon {
   margin-right: 3px;
+  font-size: 0.75em;
 }
 @media (max-width: 991px) {
   .post-meta-item-icon {
